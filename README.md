@@ -1,5 +1,4 @@
-### Hi there 👋, I'm Ilayda Karahan
-![](https://github.com/ilaydapala)
+<h1 align="center">Hi there 👋, I'm Ilayda Karahan</h1>
 
 
 
